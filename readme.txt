@@ -6,7 +6,6 @@ Creating a new branch is quick and simple.
 
 this is a newLine.
 
-this is stash 3.
-this is modify.
+fixed bug.
 
-this stash 1.
+check commond.
