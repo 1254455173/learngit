@@ -6,4 +6,4 @@ Creating a new branch is quick and simple.
 
 this is a newLine.
 
-this is stash 4.
+this is stash 3.
